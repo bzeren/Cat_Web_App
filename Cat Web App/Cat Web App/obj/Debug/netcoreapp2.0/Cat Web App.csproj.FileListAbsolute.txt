@@ -1,0 +1,11 @@
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\bin\Debug\netcoreapp2.0\Cat Web App.deps.json
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\bin\Debug\netcoreapp2.0\Cat Web App.runtimeconfig.json
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\bin\Debug\netcoreapp2.0\Cat Web App.runtimeconfig.dev.json
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\bin\Debug\netcoreapp2.0\Cat Web App.dll
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\bin\Debug\netcoreapp2.0\Cat Web App.pdb
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\obj\Debug\netcoreapp2.0\Cat Web App.csprojAssemblyReference.cache
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\obj\Debug\netcoreapp2.0\Cat Web App.csproj.CoreCompileInputs.cache
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\obj\Debug\netcoreapp2.0\Cat Web App.AssemblyInfoInputs.cache
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\obj\Debug\netcoreapp2.0\Cat Web App.AssemblyInfo.cs
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\obj\Debug\netcoreapp2.0\Cat Web App.dll
+C:\Users\Zeren\Documents\GitHub\Cat_Web_App\Cat Web App\Cat Web App\obj\Debug\netcoreapp2.0\Cat Web App.pdb
