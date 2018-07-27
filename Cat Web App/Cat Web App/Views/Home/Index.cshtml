@@ -2,13 +2,19 @@
 
 <h1>Select a category</h1>
 
-<h4>Funny</h4>
+
+<h4> @Html.ActionLink("Funny", "Category", new { category = "Funny" }) </h4>
 
 <img src="images/funnycat1.jpg" alt="cat" width="358" height="285">
 
 <br><br><br>
 
-<h4>Sunglasses</h4>
+
+
+
+
+<h4>@Html.ActionLink("Sunglasses", "Category", new { category = "Sunglasses" })</h4>
+
 
 <img src="images/sunglasscat2.jpg" alt="cat" width="358" height="285">
 
@@ -16,6 +22,7 @@
 
 <h4>Sinks</h4>
 
+<h4>@Html.ActionLink("Sink", "Category", new { category = "Sink" }) </h4>
 <img src="~/images/sinkcat3.jpg" alt="cat" width="358" height="285">
 
 

@@ -29,10 +29,20 @@ namespace Cat_Web_App.Controllers
             return View();
         }
 
-        public IActionResult Category()
+        public IActionResult Category(string category)
         {
-
-            return View();
+            switch (category) {
+                case "Sunglasses":
+                    return View("Sunglasses");
+                case "Funny":
+                    return View("Funny");
+                    
+                case "Sink":
+                    return View("Sink");
+                    
+                default:
+                    return View();
+            }
         }
 
         public IActionResult Error()
