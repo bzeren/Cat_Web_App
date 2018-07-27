@@ -29,6 +29,12 @@ namespace Cat_Web_App.Controllers
             return View();
         }
 
+        public IActionResult Category()
+        {
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
