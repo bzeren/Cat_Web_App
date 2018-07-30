@@ -1,2 +1,2 @@
-# Cat_Web_App
+# Cat Web App
 MVC app practice
