@@ -31,18 +31,8 @@ namespace Cat_Web_App.Controllers
 
         public IActionResult Category(string category)
         {
-            switch (category) {
-                case "Sunglasses":
-                    return View("Sunglasses");
-                case "Funny":
-                    return View("Funny");
-                    
-                case "Sink":
-                    return View("Sink");
-                    
-                default:
-                    return View();
-            }
+            return View(category);
+            
         }
 
         public IActionResult Error()
