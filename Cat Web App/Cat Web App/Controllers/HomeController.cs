@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -31,7 +31,8 @@ namespace Cat_Web_App.Controllers
 
         public IActionResult Category(string category)
         {
-            return View(category);
+				ViewData["Category"] = category;
+            return View();
             
         }
 

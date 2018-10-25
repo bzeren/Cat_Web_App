@@ -13,4 +13,11 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Views\boxes.cshtml" />
+    <Compile Remove="Views\Home\EmptyClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Category.cshtml" />
+  </ItemGroup>
 </Project>
