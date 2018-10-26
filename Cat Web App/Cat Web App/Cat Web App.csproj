@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <Compile Remove="Views\boxes.cshtml" />
-    <Compile Remove="Views\Home\EmptyClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Category.cshtml" />
